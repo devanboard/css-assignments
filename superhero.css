@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+li{
+    color: purple;
+}
+h1{
+    background-color: black;
+}
+h1{
+    border-color: blue;
+}
+.fancybullets {
+list-style: square;
+}

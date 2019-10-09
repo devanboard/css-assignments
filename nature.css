@@ -1,0 +1,6 @@
+:root {
+    --mbgc: orange 
+}
+h1 {
+    background-color: var(--mbgc)
+}
